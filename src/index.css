@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "refo";
+  src: url(./assets/fonts/JTUSjIg1_i6t8kCHKm459Wlhyw.ttf);
+}
+
+/* .main {
+  font-family: refo;
+} */
